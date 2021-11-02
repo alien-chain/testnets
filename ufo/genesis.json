@@ -85,16 +85,20 @@
           ]
         },
         {
-          "address": "alien10l3zxx8qs3ae72mnlemw8ar7y7hvpdhjf36zqh",
+          "address": "alien18438l28j6rzh0sjc9vzqwv8sev44tyvqatl72z",
           "coins": [
             {
+              "denom": "alien",
+              "amount": "10000000"
+            },
+            {
               "denom": "stake",
-              "amount": "100000000"
+              "amount": "10000000"
             }
           ]
         },
         {
-          "address": "alien1ett4j9e2e7qpehhgxwuz4v799dvem78h23qvhn",
+          "address": "alien10l3zxx8qs3ae72mnlemw8ar7y7hvpdhjf36zqh",
           "coins": [
             {
               "denom": "stake",
@@ -106,24 +110,20 @@
           "address": "alien15lqpyuzvs3hk84j8q5ycpdd0hl879vplvqlrmg",
           "coins": [
             {
-              "denom": "stake",
-              "amount": "100000000"
+              "denom": "alien",
+              "amount": "10000000"
             },
             {
-              "denom": "alien",
-              "amount": "100000000"
+              "denom": "stake",
+              "amount": "10000000"
             }
           ]
         },
         {
-          "address": "alien18438l28j6rzh0sjc9vzqwv8sev44tyvqatl72z",
+          "address": "alien1ett4j9e2e7qpehhgxwuz4v799dvem78h23qvhn",
           "coins": [
             {
               "denom": "stake",
-              "amount": "100000000"
-            },
-            {
-              "denom": "alien",
               "amount": "100000000"
             }
           ]
